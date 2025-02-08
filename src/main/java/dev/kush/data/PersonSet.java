@@ -3,6 +3,9 @@ package dev.kush.data;
 import java.util.List;
 import java.util.Set;
 
+/**
+ * Data set for example purposes.
+ */
 public class PersonSet {
 
     public static Set<Person> people = Set.of(
